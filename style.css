@@ -1,0 +1,8 @@
+.w-slider-dot {
+  background: #888484;
+  width: 2rem;
+  height: 0.25rem;
+}
+.w-slider-dot.w-active {
+  background: #3f7d20;
+}
